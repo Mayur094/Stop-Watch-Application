@@ -1,4 +1,4 @@
-# stop_watch_project2
+# StopWatch Application
 
 A new Flutter project.
 
